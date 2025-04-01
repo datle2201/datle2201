@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**datle2201/datle2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 📌 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Tableau**: Tableau Desktop, Prep, tableauserverclient, and Cloud
+- **SQL**: PostgreSQL, SQL Server, SAP HANA, BigQuery
+- **Airflow**: DAG creation, task scheduling, workflow automation
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [https://www.linkedin.com/in/datlebi/](https://www.linkedin.com/in/datlebi/)
+- 📧 Email: lethanhdat22198@gmail.com
+- **Tableau Public**: [https://public.tableau.com/app/profile/dat.le3644/vizzes](https://public.tableau.com/app/profile/dat.le3644/vizzes)
+
+Thanks for stopping by! 😊
