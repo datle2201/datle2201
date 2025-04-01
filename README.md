@@ -9,7 +9,6 @@ Welcome to my GitHub profile!
 - **Airflow**: DAG creation, task scheduling, workflow automation
 
 ## 📫 Connect With Me
-- **LinkedIn**: [https://www.linkedin.com/in/datlebi/](https://www.linkedin.com/in/datlebi/)
 - **Email**: lethanhdat22198@gmail.com
 - **Tableau Public**: [https://public.tableau.com/app/profile/dat.le3644/vizzes](https://public.tableau.com/app/profile/dat.le3644/vizzes)
 
