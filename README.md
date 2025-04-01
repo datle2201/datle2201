@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## 📌 About Me
-
 ## 🛠️ Tech Stack
 - **Python**: Pandas, NumPy, Matplotlib, Plotly, etc.
 - **Tableau**: Tableau Desktop, Prep, tableauserverclient, and Cloud
